@@ -1,2 +1,2 @@
 # CruiseEverywhere
-A small website project utilizing JS, Bootstrap, and CSS.
+A small website project utilizing JS, Bootstrap, PHP and CSS.
